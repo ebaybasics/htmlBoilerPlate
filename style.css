@@ -1,4 +1,10 @@
+* {
+    border: 2px solid red;
+    /* display: block; */
+}
+
 .tContainer {
+    /* display: block; */
     background-color: rgb(21, 66, 212);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 22px;
@@ -12,7 +18,7 @@ img {
 }
 
 .imgContainer {
-    background-color: brown;
+    background-color: rgb(31, 5, 5);
     margin: 5px;
 }
 
